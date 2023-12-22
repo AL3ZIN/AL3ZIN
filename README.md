@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Alexandre.;Bem+vindo+ao+meu+perfil+=%29.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Alexandre.;Bem+vindo+ao+meu+perfil+=%29)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alexandre-aguiar-martins-949228229/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,18 +13,11 @@
   </a>
 </p>
 
-SOLID,
-RESTful APIs,
-Testes Unitários,
-Testes de Integração,
-Clean Architecture
-e Design Patterns.
-
 ## Ferramentas
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Intellij](https://img.shields.io/badge/Intellij-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ## Badges
 <p align="left">
