@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Alexandre.;Bem+vindo+ao+meu+perfil+=%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Alexandre.;Bem+vindo+ao+meu+perfil+=%29)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alexandre-aguiar-martins-949228229/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
